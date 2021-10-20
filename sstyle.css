@@ -1,0 +1,18 @@
+*{
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    margin: auto;
+    text-align: center;
+    box-shadow: inset 2px 3px 4px ;
+    text-shadow: none;
+
+    flex: 10%;
+    color: blue;
+   background-color: cornflowerblue; 
+}
+h1{
+   border: 3px solid;
+    box-shadow: 2px 3px 4px ;
+    background-color: aquamarine;
+}
